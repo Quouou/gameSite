@@ -10,6 +10,10 @@ export default {
         "rober-medium": ["rober-medium", "sans-serif"],
         "rober-regular": ["rober-regular", "sans-serif"],
       },
+      backgroundImage: {
+        "custom-gradient":
+          "linear-gradient(to right, #001f4d, #003366, #004080, #00509e)",
+      },
       colors: {
         blue: {
           50: "#dfdff0",
@@ -25,6 +29,10 @@ export default {
           100: "#8e983f",
           300: "#edff66",
         },
+        "custom-blue-1": "#001f4d",
+        "custom-blue-2": "#003366",
+        "custom-blue-3": "#004080",
+        "custom-blue-4": "#00509e",
       },
     },
   },
